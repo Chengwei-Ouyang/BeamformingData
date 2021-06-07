@@ -1,0 +1,6 @@
+clean_wav_16k
+clean_wav_32k
+noisy_wav_16k
+noisy_wav_32k
+clean_wav_32k.zip
+*.wav
